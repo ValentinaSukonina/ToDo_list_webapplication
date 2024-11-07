@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "label": "Check Teams calendar",
+    "done": true,
+    "priority": false
+  },
+  { "id": "2", "label": "Check e-mail", "done": false, "priority": false },
+  { "id": "3", "label": "Study", "done": false, "priority": false },
+  { "id": "4", "label": "Work on Lab", "done": false, "priority": false }
+]
